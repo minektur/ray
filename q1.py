@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-""" Sample code for Raytheon Interview"""
+""" Sample code for NR"""
 import sys
 
 
