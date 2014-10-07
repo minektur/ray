@@ -3,6 +3,9 @@ ray
 
 q1 - 4th occurance of a string in a file
 
+----
+
+
 q1.sh - fast and dirty bash one-liner - assumes string exists at least 4 times in file
 ./q1.sh inputfile string
 
